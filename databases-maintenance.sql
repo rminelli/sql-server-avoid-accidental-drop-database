@@ -1,5 +1,6 @@
 /*
 	Script to avoid accidental deletion of database
+	Roberto Minelli
 */
 
 -- Trigger 
