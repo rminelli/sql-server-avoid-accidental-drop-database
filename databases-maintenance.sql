@@ -1,6 +1,7 @@
 /*
 	Script to avoid accidental deletion of database
 	Roberto Minelli
+	Janeiro - 2019
 */
 
 -- Trigger 
